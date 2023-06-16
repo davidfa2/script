@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the source folder path
-source_folder="//10.10.1.236/IBEX_src$"
+source_folder="//*****/****"
 
 # Define the target S3 bucket
 s3_bucket="your-s3-bucket"
